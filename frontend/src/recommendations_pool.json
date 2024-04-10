@@ -1,0 +1,296 @@
+[
+  {
+    "id": 100,
+    "title": "The Hobbit",
+    "img": "https://storiesfromtheweb.org/wp-content/uploads/2023/07/The-Hobbit-by-J.R.R.-Tolkien-640x999.jpg",
+    "author": {
+      "fullName": "J.R.R. Tolkien"
+    },
+    "predefinedShelf": {
+      "shelfName": "recommededBooks"
+    },
+    "bookGenre": ["Fantasy"],
+    "numberOfPages": 307,
+    "rating": 5
+  },
+  {
+    "id": 101,
+    "title": "Harry Potter and the Philosopher's Stone",
+    "img": "https://m.media-amazon.com/images/I/81q77Q39nEL._SY522_.jpg",
+    "author": {
+      "fullName": "J.K. Rowling"
+    },
+    "predefinedShelf": {
+      "shelfName": "recommendedBooks"
+    },
+    "bookGenre": ["Mystery"],
+    "numberOfPages": 649,
+    "rating": 1
+  },
+  {
+    "id": 102,
+    "title": "Fahrenheit 451",
+    "img": "https://m.media-amazon.com/images/I/61z7RDG3OIL._SY522_.jpg",
+    "author": {
+      "fullName": "Ray Bradbury"
+    },
+    "predefinedShelf": {
+      "shelfName": "recommendedBooks"
+    },
+    "bookGenre": ["Romance"],
+    "numberOfPages": 230,
+    "rating": 4
+  },
+  {
+    "id": 103,
+    "title": "Animal Farm",
+    "img": "https://m.media-amazon.com/images/I/91LUbAcpACL._SY522_.jpg",
+    "author": {
+      "fullName": "George Orwell"
+    },
+    "predefinedShelf": {
+      "shelfName": "recommendedBooks"
+    },
+    "bookGenre": ["Fantasy"],
+    "numberOfPages": 868,
+    "rating": 1
+  },
+  {
+    "id": 104,
+    "title": "1984",
+    "img": "https://m.media-amazon.com/images/I/41sjzA8EGhL._SY445_SX342_.jpg",
+    "author": {
+      "fullName": "George Orwell"
+    },
+    "predefinedShelf": {
+      "shelfName": "recommededBooks"
+    },
+    "bookGenre": ["Dystopian", "Political Fiction"],
+    "numberOfPages": 501,
+    "rating": 1
+  },
+  {
+    "id": 105,
+    "title": "The Lord of the Rings",
+    "img": "https://m.media-amazon.com/images/I/51Jh5DZzPFL._SY445_SX342_.jpg",
+    "author": {
+      "fullName": "J.R.R. Tolkien"
+    },
+    "predefinedShelf": {
+      "shelfName": "recommededBooks"
+    },
+    "bookGenre": ["Thriller", "Fantasy"],
+    "numberOfPages": 125,
+    "rating": 2
+  },
+  {
+    "id": 106,
+    "title": "To Kill a Mockingbird",
+    "img": "https://m.media-amazon.com/images/I/51N5qVjuKAL._SY445_SX342_.jpg",
+    "author": {
+      "fullName": "Harper Lee"
+    },
+    "predefinedShelf": {
+      "shelfName": "recommededBooks"
+    },
+    "bookGenre": ["Classic", "Fiction"],
+    "numberOfPages": 755,
+    "rating": 3
+  },
+  {
+    "id": 107,
+    "title": "The Great Gatsby",
+    "img": "https://m.media-amazon.com/images/I/71ytEpUyquL._SY522_.jpg",
+    "author": {
+      "fullName": "F. Scott Fitzgerald"
+    },
+    "predefinedShelf": {
+      "shelfName": "recommendedBooks"
+    },
+    "bookGenre": ["Classic", "Fiction"],
+    "numberOfPages": 108,
+    "rating": 4
+  },
+  {
+    "id": 109,
+    "title": "Gone with the Wind",
+    "img": "https://m.media-amazon.com/images/I/81mUS+-9ZmL._AC_UF1000,1000_QL80_.jpg",
+    "author": {
+      "fullName": "Margaret Mitchell"
+    },
+    "predefinedShelf": {
+      "shelfName": "recommendedBooks"
+    },
+    "bookGenre": ["Non Fiction"],
+    "numberOfPages": 370,
+    "rating": 2
+  },
+  {
+    "id": 110,
+    "title": "The Night Circus",
+    "img": "https://m.media-amazon.com/images/I/61NPszTwZUL._AC_UF1000,1000_QL80_.jpg",
+    "author": {
+      "fullName": "Erin Morgenstern"
+    },
+    "predefinedShelf": {
+      "shelfName": "recommendedBooks"
+    },
+    "bookGenre": ["Fantasy", "Romance"],
+    "numberOfPages": 387,
+    "rating": 4.6
+  },
+  {
+    "id": 111,
+    "title": "Becoming",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/81h2gWPTYJL.jpg",
+    "author": {
+      "fullName": "Michelle Obama"
+    },
+    "predefinedShelf": {
+      "shelfName": "recommendedBooks"
+    },
+    "bookGenre": ["Biography"],
+    "numberOfPages": 448,
+    "rating": 5
+  },
+  {
+    "id": 112,
+    "title": "Fairy Tale",
+    "img": "https://m.media-amazon.com/images/I/81qwIF9iyrL._SY522_.jpg",
+    "author": {
+      "fullName": "Stephen King"
+    },
+    "predefinedShelf": {
+      "shelfName": "recommendedBooks"
+    },
+    "bookGenre": ["Fantasy"],
+    "numberOfPages": 624,
+    "rating": 4.8
+  },
+  {
+    "id": 113,
+    "title": "Atomic Habits",
+    "img": "https://m.media-amazon.com/images/I/81YkqyaFVEL._SY522_.jpg",
+    "author": {
+      "fullName": "James Clear"
+    },
+    "predefinedShelf": {
+      "shelfName": "recommendedBooks"
+    },
+    "bookGenre": ["Self help"],
+    "numberOfPages": 320,
+    "rating": 4.6
+  },
+  {
+    "id": 114,
+    "title": "From the Ashes",
+    "img": "https://m.media-amazon.com/images/I/61QTmSTjFZL._SY522_.jpg",
+    "author": {
+      "fullName": "Helen McCloud"
+    },
+    "predefinedShelf": {
+      "shelfName": "recommendedBooks"
+    },
+    "bookGenre": ["Biography"],
+    "numberOfPages": 320,
+    "rating": 3.9
+  },
+  {
+    "id": 115,
+    "title": "Cave of the Crystal Dragon",
+    "img": "https://m.media-amazon.com/images/I/91Ydr2DTF-L._SY522_.jpg",
+    "author": {
+      "fullName": "Tracey West"
+    },
+    "predefinedShelf": {
+      "shelfName": "recommendedBooks"
+    },
+    "bookGenre": ["Fiction", " Children"],
+    "numberOfPages": 624,
+    "rating": 4.4
+  },
+  {
+    "id": 116,
+    "title": "The Psychology of Money",
+    "img": "https://m.media-amazon.com/images/I/71TRUbzcvaL._SY522_.jpg",
+    "author": {
+      "fullName": "Morgan Housel"
+    },
+    "predefinedShelf": {
+      "shelfName": "recommendedBooks"
+    },
+    "bookGenre": ["Self help"],
+    "numberOfPages": 336,
+    "rating": 4.3
+  },
+  {
+    "id": 117,
+    "title": "A Good Girl's Guide to Murder",
+    "img": "https://m.media-amazon.com/images/I/81jasyjB5LL._SY522_.jpg",
+    "author": {
+      "fullName": "Holly Jackson"
+    },
+    "predefinedShelf": {
+      "shelfName": "recommendedBooks"
+    },
+    "bookGenre": ["Mystery"],
+    "numberOfPages": 400,
+    "rating": 4.2
+  },
+  {
+    "id": 118,
+    "title": "Bride",
+    "img": "https://m.media-amazon.com/images/I/71IK1aka8GL._SY522_.jpg",
+    "author": {
+      "fullName": "Ali Hazelwood"
+    },
+    "predefinedShelf": {
+      "shelfName": "recommendedBooks"
+    },
+    "bookGenre": ["Romance", "Fantasy"],
+    "numberOfPages": 416,
+    "rating": 4.2
+  },
+  {
+    "id": 119,
+    "title": "Things We Never Got Over",
+    "img": "https://m.media-amazon.com/images/I/81WklxcuSZL._SY522_.jpg",
+    "author": {
+      "fullName": "Lucy Score"
+    },
+    "predefinedShelf": {
+      "shelfName": "recommendedBooks"
+    },
+    "bookGenre": ["Romance", "Fantasy"],
+    "numberOfPages": 289,
+    "rating": 4.5
+  },
+  {
+    "id": 120,
+    "title": "Summer at Firefly Beach",
+    "img": "https://m.media-amazon.com/images/I/71NUhYQYFVL._SY522_.jpg",
+    "author": {
+      "fullName": "Jenny Hale"
+    },
+    "predefinedShelf": {
+      "shelfName": "recommendedBooks"
+    },
+    "bookGenre": ["Romance", "Fiction"],
+    "numberOfPages": 288,
+    "rating": 4.2
+  },
+  {
+    "id": 121,
+    "title": "Happy Place",
+    "img": "https://m.media-amazon.com/images/I/71LPMYkB5rL._SY522_.jpg",
+    "author": {
+      "fullName": "Emily Henry"
+    },
+    "predefinedShelf": {
+      "shelfName": "recommendedBooks"
+    },
+    "bookGenre": ["Romance", "Fiction"],
+    "numberOfPages": 416,
+    "rating": 3.7
+  }
+]

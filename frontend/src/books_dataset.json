@@ -1,0 +1,166 @@
+[
+  {
+    "id": 1,
+    "title": "The Catcher in the Rye",
+    "img": "https://www.savethecat.com/wp-content/uploads/2019/05/243a0ba33adbee20d3ed689fbf712ec8-jd-salinger-holden-caulfield.jpg",
+    "author": {
+      "fullName": "J.D. Salinger"
+    },
+    "predefinedShelf": {
+      "shelfName": "reading"
+    },
+    "bookGenre": ["Classic", "Young Adult"],
+    "numberOfPages": 477,
+    "rating": 1
+  },
+  {
+    "id": 2,
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "img": "https://m.media-amazon.com/images/I/51pg8dBgESL._SY445_SX342_.jpg",
+    "author": {
+      "fullName": "J.K. Rowling"
+    },
+    "predefinedShelf": {
+      "shelfName": "reading"
+    },
+    "bookGenre": ["Fantasy", "Young Adult"],
+    "numberOfPages": 309,
+    "rating": 5
+  },
+  {
+    "id": 3,
+    "title": "Little Women",
+    "img": "https://m.media-amazon.com/images/I/71fiaL7oonL._SY522_.jpg",
+    "author": {
+      "fullName": "Louisa May Alcott"
+    },
+    "predefinedShelf": {
+      "shelfName": "to-read"
+    },
+    "bookGenre": ["Adventure"],
+    "numberOfPages": 397,
+    "rating": 5
+  },
+  {
+    "id": 4,
+    "title": "The Alchemist",
+    "img": "https://m.media-amazon.com/images/I/51bDuU2p5zL._SY445_SX342_.jpg",
+    "author": {
+      "fullName": "Paulo Coelho"
+    },
+    "predefinedShelf": {
+      "shelfName": "read"
+    },
+    "bookGenre": ["Fiction", "Philosophical"],
+    "numberOfPages": 208,
+    "rating": 3.5
+  },
+  {
+    "id": 5,
+    "title": "Pride and Prejudice",
+    "img": "https://m.media-amazon.com/images/I/81a3sr-RgdL._SY522_.jpg",
+    "author": {
+      "fullName": "Jane Austen"
+    },
+    "predefinedShelf": {
+      "shelfName": "to-read"
+    },
+    "bookGenre": ["Classic", "Romance"],
+    "numberOfPages": 315,
+    "rating": 2
+  },
+  {
+    "id": 6,
+    "title": "Jane Eyre",
+    "img": "https://m.media-amazon.com/images/I/91wbu49sCxL._SY522_.jpg",
+    "author": {
+      "fullName": "Charlotte Brontë"
+    },
+    "predefinedShelf": {
+      "shelfName": "did-not-finish"
+    },
+    "bookGenre": ["Romance"],
+    "numberOfPages": 611,
+    "rating": 4
+  },
+  {
+    "id": 7,
+    "title": "The Book Thief",
+    "img": "https://m.media-amazon.com/images/I/914cHl9v7oL._AC_UF1000,1000_QL80_.jpg",
+    "author": {
+      "fullName": "Markus Zusak"
+    },
+    "predefinedShelf": {
+      "shelfName": "reading"
+    },
+    "bookGenre": ["Crime"],
+    "numberOfPages": 115,
+    "rating": 1
+  },
+  {
+    "id": 8,
+    "title": "The Diary Of A Young Girl",
+    "img": "https://m.media-amazon.com/images/I/71O7+oS69YL._SY522_.jpg",
+    "author": {
+      "fullName": "Anne Frank"
+    },
+    "predefinedShelf": {
+      "shelfName": "reading"
+    },
+    "bookGenre": ["Horror"],
+    "numberOfPages": 677,
+    "rating": 4
+  },
+  {
+    "id": 9,
+    "title": "The Lost Bookshop",
+    "img": "https://m.media-amazon.com/images/I/91Yb6fD29xL._SY522_.jpg",
+    "author": { "fullName": "Evie Woods " },
+    "predefinedShelf": { "shelfName": "to-read" },
+    "bookGenre": ["Fiction"],
+    "numberOfPages": 115,
+    "rating": 4
+  },
+  {
+    "id": 10,
+    "title": "The Adventures of Huckleberry Finn",
+    "img": "https://m.media-amazon.com/images/I/61vrBU8nGjL._SY522_.jpg",
+    "author": {
+      "fullName": "Mark Twain"
+    },
+    "predefinedShelf": {
+      "shelfName": "did-not-finish"
+    },
+    "bookGenre": ["Classic"],
+    "numberOfPages": 810,
+    "rating": 1
+  },
+  {
+    "id": 11,
+    "title": "The Housemaid",
+    "img": "https://m.media-amazon.com/images/I/81AHTyq2wVL._SY522_.jpg",
+    "author": {
+      "fullName": "Freida McFadden"
+    },
+    "predefinedShelf": {
+      "shelfName": "read"
+    },
+    "bookGenre": ["Self help"],
+    "numberOfPages": 336,
+    "rating": 4.6
+  },
+  {
+    "id": 12,
+    "title": "The Silent Patient",
+    "img": "https://m.media-amazon.com/images/I/91lslnZ-btL._AC_UF1000,1000_QL80_.jpg",
+    "author": {
+      "fullName": "Alex Michaelides"
+    },
+    "predefinedShelf": {
+      "shelfName": "recommendedBooks"
+    },
+    "bookGenre": ["Biography"],
+    "numberOfPages": 336,
+    "rating": 5
+  }
+]
